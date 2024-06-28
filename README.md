@@ -21,4 +21,8 @@ Utilized CSS to create a modern and visually appealing gradient background.
 Ensured cross-browser compatibility and responsive design.
 
 ## A few snapshots
+![image](https://github.com/priyanshap/InvestWatch/assets/158167690/4e9bb70f-8852-4ff2-bd9d-edb77904742d)
+![image](https://github.com/priyanshap/InvestWatch/assets/158167690/4a9900ba-a192-4631-b07c-bd3a609103d8)
+![image](https://github.com/priyanshap/InvestWatch/assets/158167690/ab3e1562-3bd4-41c9-ae8a-389e95970455)
+
 
