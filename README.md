@@ -1,5 +1,5 @@
 # InvestWatch
-InvestWatch - Stock Tracker
+## InvestWatch - Stock Tracker
 Developed a sophisticated web application that provides users with a comprehensive dashboard interface to manage and track stock market data. Key features include a customizable watchlist, a search functionality for specific stocks, and detailed information views for individual stocks.
 
 ## Key Features:
